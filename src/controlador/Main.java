@@ -5,6 +5,11 @@ public class Main {
 	/**
 	 * Launch the application.
 	 */
+	/**
+	 * Hola que ase 
+	 * pues na aki el buen javadoc
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
