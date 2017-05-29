@@ -13,6 +13,7 @@ public Articulo(String identificador, String nombre, String precio, String descr
 	this.descripción = descripción;
 }
 private String getIdentificador() {
+	//ddddddddd
 	return identificador;
 }
 private String getNombre() {
