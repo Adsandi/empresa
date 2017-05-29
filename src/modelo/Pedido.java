@@ -28,5 +28,4 @@ private LineaDePedido[] getLineasDePedido() {
 private void setLineasDePedido(LineaDePedido[] lineasDePedido) {
 	this.lineasDePedido = lineasDePedido;
 }
-
 }
