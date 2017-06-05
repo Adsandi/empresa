@@ -90,7 +90,6 @@ public class OpcionesDeConsulta extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 			}
 		});
-		btnConsultaCliente.setBackground(Color.WHITE);
 		GridBagConstraints gbc_btnConsultaCliente = new GridBagConstraints();
 		gbc_btnConsultaCliente.fill = GridBagConstraints.BOTH;
 		gbc_btnConsultaCliente.insets = new Insets(0, 0, 5, 5);
